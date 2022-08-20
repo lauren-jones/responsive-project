@@ -134,6 +134,12 @@ div.hero {
   padding-right: 20px;
 }
 
+/* GALLERY PAGE */
+.gallery-heading {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
 /* MOBILE RESPONSIVENESS */
 
 @media (max-width: 767.98px) {
