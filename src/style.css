@@ -140,6 +140,27 @@ div.hero {
   margin-bottom: 100px;
 }
 
+/* CONTACT PAGE */
+.contact-heading {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--accent-color);
+  text-transform: uppercase;
+  margin-bottom: 30px;
+  letter-spacing: 0.15rem;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.contact-medium {
+  padding-top: 20px;
+}
+
+.contact-medium p {
+  text-align: center;
+}
+
 /* MOBILE RESPONSIVENESS */
 
 @media (max-width: 767.98px) {
