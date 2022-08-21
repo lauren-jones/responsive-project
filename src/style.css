@@ -161,6 +161,37 @@ div.hero {
   text-align: center;
 }
 
+/* NAVIGATION */
+nav a {
+  color: white;
+  margin: 0 10px;
+}
+
+nav a:hover {
+  color: var(--accent-color);
+}
+
+.navbar {
+  background: #202020;
+  padding: 10px;
+  padding-top: 20px;
+}
+
+.navbar-brand img {
+  width: 150px;
+  height: auto;
+  margin-left: 40px;
+}
+
+.navbar-nav {
+  margin-right: 40px;
+}
+
+.navbar-collapse {
+  text-align: center;
+  margin-top: 20px;
+}
+
 /* MOBILE RESPONSIVENESS */
 
 @media (max-width: 767.98px) {
