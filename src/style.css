@@ -203,6 +203,15 @@ nav a:hover {
   height: auto;
 }
 
+.footer a {
+  color: white;
+}
+
+.footer a:hover {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
 /* MOBILE RESPONSIVENESS */
 
 @media (max-width: 767.98px) {
