@@ -192,6 +192,17 @@ nav a:hover {
   margin-top: 20px;
 }
 
+/* FOOTER */
+.footer {
+  padding: 20px 10px 0;
+  background: var(--footer-color);
+}
+
+.footer img {
+  width: 150px;
+  height: auto;
+}
+
 /* MOBILE RESPONSIVENESS */
 
 @media (max-width: 767.98px) {
@@ -213,5 +224,9 @@ nav a:hover {
 
   .about-me {
     padding: 0 20px;
+  }
+
+  .footer .col-sm {
+    padding-top: 20px;
   }
 }
